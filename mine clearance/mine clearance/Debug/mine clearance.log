@@ -1,0 +1,13 @@
+﻿生成启动时间为 2019/7/12 10:58:53。
+     1>项目“D:\helloworld\mine clearance\mine clearance\mine clearance.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "mine clearance.c"
+         mine clearance.c
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\helloworld\mine clearance\Debug\mine clearance.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\helloworld\mine clearance\Debug\mine clearance.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\helloworld\mine clearance\Debug\mine clearance.lib" /MACHINE:X86 "Debug\mine clearance.obj"
+         mine clearance.vcxproj -> D:\helloworld\mine clearance\Debug\mine clearance.exe
+     1>已完成生成项目“D:\helloworld\mine clearance\mine clearance\mine clearance.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.63
