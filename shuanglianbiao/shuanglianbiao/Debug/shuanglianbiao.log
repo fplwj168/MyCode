@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/8/16 18:00:48。
+     1>项目“D:\helloworld\shuanglianbiao\shuanglianbiao\shuanglianbiao.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt List.c main.c
+         main.c
+     1>d:\helloworld\shuanglianbiao\shuanglianbiao\main.c(16): warning C4013: “ListDestroy”未定义；假设外部返回 int
+         List.c
+     1>d:\helloworld\shuanglianbiao\shuanglianbiao\list.c(5): warning C4013: “memset”未定义；假设外部返回 int
+         正在生成代码...
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\helloworld\shuanglianbiao\Debug\shuanglianbiao.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\helloworld\shuanglianbiao\Debug\shuanglianbiao.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\helloworld\shuanglianbiao\Debug\shuanglianbiao.lib" /MACHINE:X86 Debug\List.obj
+         Debug\main.obj
+         shuanglianbiao.vcxproj -> D:\helloworld\shuanglianbiao\Debug\shuanglianbiao.exe
+     1>已完成生成项目“D:\helloworld\shuanglianbiao\shuanglianbiao\shuanglianbiao.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.22
